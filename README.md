@@ -8,10 +8,10 @@ I'm a self-taught data engineer. I'm currently looking for new opportunities in 
 ---
 
 ### 💡 Skills
-- **Cloud Platform** : AWS
+- **Cloud Platform** : AWS, GCP
 - **Programming** : Python, Java, PySpark, SQL
 - **Databases** : MySQL, PostgreSQL
-- **Big Data Tools** : Spark, Kafka, Airflow
+- **Big Data Tools** : Spark, Airflow
 - **Version Control** : Git, GitHub
 - **Visualisation Tools**: Tableau
   
@@ -19,7 +19,7 @@ I'm a self-taught data engineer. I'm currently looking for new opportunities in 
 
 ### 📝 My Certification
 - [Databricks Certified Associate Developer for Apache Spark 3.0 - Python]()
-- [AWS Certified Solution Architect - Associate]()
+- [AWS Certified Solution Architect - Associate](https://github.com/dev-seohui/BigData-Challenge/blob/ed0562aaf460c73e8bbff7c0c2cbb28e79c77710/certificate/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
 - [빅데이터분석기사]()
 ---
 
