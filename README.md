@@ -21,8 +21,7 @@ I'm a self-taught data engineer. I'm currently looking for new opportunities in 
 - [Databricks Certified Associate Developer for Apache Spark 3.0 - Python](https://credentials.databricks.com/25b7944c-0b8b-47c6-89e6-c07c275a61f3#acc.Mh51EyYP)
 - [AWS Certified Solution Architect - Associate](https://github.com/dev-seohui/BigData-Challenge/blob/ed0562aaf460c73e8bbff7c0c2cbb28e79c77710/certificate/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
 - 빅데이터분석기사
----
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-seohui&count_bg=%233D6FC8&title_bg=%236D6868&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-seohui&}&langs_count=3&theme=dark)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-seohui&show_icons=true&theme=dark) 
