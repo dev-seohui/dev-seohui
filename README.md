@@ -8,7 +8,7 @@ I'm a self-taught data engineer. I'm currently looking for new opportunities in 
 ---
 
 ### 💡 Skills
-- **Cloud Platform** : AWS
+- **Cloud Platform** : AWS, GCP
 - **Programming** : Python, Java, PySpark, SQL
 - **Databases** : MySQL, PostgreSQL
 - **Big Data Tools** : Spark, Airflow
