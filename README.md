@@ -8,12 +8,13 @@ I'm a self-taught data engineer. I'm currently looking for new opportunities in 
 ---
 
 ### 💡 Skills
-- **Cloud Platform** : AWS, GCP
-- **Programming** : Python, Java, PySpark, SQL
-- **Databases** : MySQL, PostgreSQL
-- **Big Data Tools** : Spark, Airflow
-- **Version Control** : Git, GitHub
-- **Visualisation Tools**: Tableau
+- **Cloud Platforms**: AWS, GCP  
+- **Programming**: Python, Java, PySpark, SQL  
+- **Frameworks**: Django, Spring
+- **Databases**: MySQL, PostgreSQL, MSSQL, Redis  
+- **Big Data Tools**: Spark, Airflow
+- **Version Control**: Git, GitHub  
+- **Visualization Tools**: Tableau  
   
 ---
 
