@@ -25,4 +25,8 @@ I'm a self-taught data engineer. I'm currently looking for new opportunities in 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-seohui&}&langs_count=5&theme=dark)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-seohui&show_icons=true&theme=dark) 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-seohui&show_icons=true&theme=dark" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-seohui&langs_count=5&theme=dark&layout=compact" height="200">
+</p>
+
