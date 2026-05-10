@@ -23,5 +23,3 @@ I'm a self-taught data engineer. I'm currently looking for new opportunities in 
 - [AWS Certified Solution Architect - Associate](https://github.com/dev-seohui/BigData-Challenge/blob/ed0562aaf460c73e8bbff7c0c2cbb28e79c77710/certificate/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
 - 빅데이터분석기사
 - 정보처리기사
-
----
